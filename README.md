@@ -6,5 +6,6 @@ Python implementation of machine learning and Ai algorithms from scratch
 * Logistic regression
 * Naive Bayes
 * Support Vector Machine
+* Decision Tree
 * Perceptron implementation from scratch
 
