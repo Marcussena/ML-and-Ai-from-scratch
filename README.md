@@ -8,5 +8,6 @@ Python implementation of machine learning and Ai algorithms from scratch
 * Support Vector Machine
 * Decision Tree
 * Random Forests
+* K-Means
 * Perceptron implementation from scratch
 
