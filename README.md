@@ -9,5 +9,6 @@ Python implementation of machine learning and Ai algorithms from scratch
 * Decision Tree
 * Random Forests
 * K-Means
+* Principal Component Analysis (PCA)
 * Perceptron implementation from scratch
 
