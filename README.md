@@ -2,6 +2,7 @@
 Python implementation of machine learning and Ai algorithms from scratch
 
 - Code used in the medium blogpost:
+* K Nearest Neighbors (KNN)
 * Linear Regression
 * Logistic regression
 * Naive Bayes
